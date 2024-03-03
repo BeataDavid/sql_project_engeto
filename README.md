@@ -1,6 +1,8 @@
 # sql_project_engeto
 SQLproject_Engeto_Wages, prices and GDP in Czechia
 
+Discord name: bea_davidova
+
 Tento soubor je zpracováním úkolu v rámci datové akademi Engeto a odpovídá na zadaná otázky zaměřené na databázi poskytnutou v rámci kurzu.
 - Zde jsou otázky a odpovědi na ně, kterou jsou i součástí kódu jakožto poznámky.
 
